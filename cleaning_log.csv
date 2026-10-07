@@ -1,0 +1,8 @@
+Step,Action Taken
+Missing Values,Filled missing Marks with mean and Department with Unknown
+Age Data Type,Converted Age from text to numeric
+Date Parsing,Converted Join Date to datetime format
+Invalid Age,Replaced invalid Age value with median Age
+Department Standardization,Standardized Department capitalization
+Duplicate Removal,Removed duplicate rows
+Column Name Standardization,Converted column names to lowercase with underscores
